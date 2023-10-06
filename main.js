@@ -1,1 +1,1 @@
-alert('bah')
+a
